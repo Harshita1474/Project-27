@@ -47,9 +47,13 @@ function draw() {
   bobObject1.display();
   ropeobject1.display();
   bobObject2.display();
+  ropeobject2.display();
   bobObject3.display();
+  ropeobject3.display();
   bobObject4.display();
+  ropeobject4.display();
   bobObject5.display();
+  ropeobject5.display();
   drawSprites();
  
 }
