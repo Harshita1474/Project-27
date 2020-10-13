@@ -7,7 +7,7 @@ const Constraint = Matter.Constraint;
 
 var roof;
 var bobObject1, bobObject2, bobObject3, bobObject4, bobObject5;
-var ropeobject1;
+var ropeobject1,ropeobject2,ropeobject3,ropeobject4,ropeobject5;
 
 function preload()
 {
