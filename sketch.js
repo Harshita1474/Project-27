@@ -26,9 +26,13 @@ function setup() {
 	bobObject1=new Bob(340,500,30);
 	ropeobject1=new Rope(bobObject1.body,roof.body,-bobDiameter*2,0);
 	bobObject2=new Bob(370,500,30);
+	ropeobject1=new Rope(bobObject1.body,roof.body,-bobDiameter*2,0);
 	bobObject3=new Bob(400,500,30);
+	ropeobject1=new Rope(bobObject1.body,roof.body,-bobDiameter*2,0);
 	bobObject4=new Bob(430,500,30);
+	ropeobject1=new Rope(bobObject1.body,roof.body,-bobDiameter*2,0);
 	bobObject5=new Bob(460,500,30);
+	ropeobject1=new Rope(bobObject1.body,roof.body,-bobDiameter*2,0);
 
 	Engine.run(engine);
   
